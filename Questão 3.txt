@@ -1,0 +1,2 @@
+Orientação a objetos - É um paradigma para o desenvolvimento de software que baseia-se na utilização de componentesindividuais (objetos) que colaboram para construir sistemas mais complexos. A colaboração entre os objetos é feita através do envio de mensagens.
+Vantagens - ciclo de vida mais longo para os sistemas – desenvolvimento acelerado de sistemas – possibilidade de se construir sistema muito mais complexos, pela incorporação de funções prontas – menor custo para desenvolvimento e manutenção de sistemas

@@ -1,0 +1,8 @@
+Programação Funcional - é um paradigma de programação que trata a computação como uma avaliação de funções matemáticas e que evita estados ou dados mutáveis. Ela enfatiza a aplicação de funções, em contraste da programação imperativa, que enfatiza mudanças no estado do programa.
+
+Vantagens - Um alto nível de abstração, especialmente quando as funções são utilizadas, suprimindo muitos detalhes da programação e minimizando a probabilidade da ocorrência de muitas classes de erros.
+A não dependência das operações de atribuição permite aos programas avaliações nas mais diferentes ordens. Esta característica de avaliação independente da ordem torna as linguagens funcionais as mais indicadas para a programação de computadores massissamente paralelos.
+A ausência de operações de atribuição torna os programas funcionais muito mais simples para provas e análises matemáticas do que os programas procedurais.
+
+Desvantagens - Menor eficiência.
+Problemas que envolvam muitas variáveis (ex. contas de banco) ou muitas atividades seqüenciais são muitas vezes mais fáceis de se trabalhar com programas procedurais ou programas orientados a objeto.
